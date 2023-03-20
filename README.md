@@ -16,5 +16,5 @@ Next, simply open the Launcher, choose your IPA file and settings, then click "L
 # Notes
 1. The program may work with previous versions of .NET but I haven't tested it so no guarentees.
 2. As touchHLE supports more games, I will try to keep the launcher updated too. It should be a somewhat simple process with how I set it up.
-3. I will try to keep feature parody with the emulator as applicable. But this is just a temporary, personal project until touchHLE gains a proper GUI.
+3. I will try to keep feature parity with the emulator as applicable. But this is just a temporary, personal project until touchHLE gains a proper GUI.
 4. Finally, of course credit goes to Hikari-no-yume for making the actual emulator
